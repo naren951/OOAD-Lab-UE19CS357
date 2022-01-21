@@ -1,0 +1,9 @@
+•Input a number from the user and display the number of 1’s in the binary representation of a number
+•Write a program to find surface area of a cylinder: 2PIr*r+2PIr*h
+  Hint: Use Math.PI 
+•Create a class called MyNumber as shown below. To this class, add  a method to count the number of bits which are 1 in the binary representation of the number. Use the concept of package creation and importing the package 
+class MyNumber  {
+  private int value;   
+  // ctor 
+  // display method  
+}
