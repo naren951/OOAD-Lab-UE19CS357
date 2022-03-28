@@ -1,0 +1,15 @@
+Current Piece is: Queen
+Current Position is: c4
+Possible Moves:  c1, c2, c3, c4, c6, c7, c8
+Current Piece is: Knight
+Current Position is: c4
+Possible Moves:  e4, e6, e8, f4 , f8, f6
+Current Piece is: Queen
+Current Position is: c4
+Possible Moves:  c1, c2, c3, c4, c6, c7, c8
+Current Piece is: Knight
+Current Position is: c8
+Possible Moves:  e4, e6, e8, f4 , f8, f6
+Current Piece is: Queen
+Current Position is: c7
+Possible Moves:  c1, c2, c3, c4, c6, c7, c8
